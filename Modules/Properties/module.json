@@ -1,0 +1,13 @@
+{
+    "name": "Properties",
+    "alias": "properties",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Properties\\App\\Providers\\PropertiesServiceProvider",
+        "Modules\\Properties\\App\\Providers\\RouteServiceProvider",
+        "Modules\\Properties\\App\\Providers\\EventServiceProvider"
+    ],
+    "files": []
+}
